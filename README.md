@@ -1,0 +1,1 @@
+# VirtualOS-worker-supabase-adapter
